@@ -1,12 +1,12 @@
-Check Positive or Negative Number
+# Check Positive or Negative Number
 
 This C++ program takes an integer input from the user and determines whether the number is positive or negative.
 
-🧠 Language
+# 🧠 Language
 
 C++
 
-📋 Description
+# 📋 Description
 
 Takes a single integer input from the user
 
@@ -16,9 +16,7 @@ Prints "Positive" if the number is zero or above
 
 Prints "Negative" if the number is less than zero
 
-🧪 Sample Output
-
-
+# 🧪 Sample Output
 
 Enter a number:
 
@@ -37,7 +35,7 @@ Positive
 g++ check_sign.cpp -o check_sign
 ./check_sign
 
-🌱 What I Learned
+# 🌱 What I Learned
 
 Basic input/output in C++
 
